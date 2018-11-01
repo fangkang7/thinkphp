@@ -1,0 +1,11 @@
+<?php
+
+namespace {%namespace%};
+
+
+class {%className%}
+{
+        protected static function getFacadeClass()
+        {
+        }
+}
